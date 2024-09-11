@@ -1,0 +1,21 @@
+body {
+    background-color: #443a3a;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img {
+width: 100px;
+margin: 20px 5px 0 7px;
+margin-top: 20px;
+margin-right: 5px;
+margin-bottom: 0;
+margin-left: 7px;
+
+}
+
+a {
+    color: blueviolet;
+
+}
