@@ -1,13 +1,19 @@
 body {
     background-color: #443a3a;
+
+    /* the code under is too remove pre styling and should always be included */
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
+/* writing the tag name you can style every tag too be the same */
 img {
 width: 100px;
+
+/* using margin as this 'shorthand' would equal */
 margin: 20px 5px 0 7px;
+/* the code under here */
 margin-top: 20px;
 margin-right: 5px;
 margin-bottom: 0;
@@ -16,6 +22,7 @@ margin-left: 7px;
 }
 
 a {
+    /* color is text color */
     color: blueviolet;
 
 }
